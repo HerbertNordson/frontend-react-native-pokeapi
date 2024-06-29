@@ -49,6 +49,7 @@ const styles = StyleSheet.create({
     fontSize: 32,
     color: "#ff0000",
     fontWeight: 600,
+    textTransform: "uppercase",
   },
   ability: {
     justifyContent: "space-around",
